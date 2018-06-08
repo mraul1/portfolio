@@ -8,9 +8,9 @@ class Contact extends Component {
       <div className="contact-body">
         <Grid className="contact-grid">
           <Cell col={6}>
-            <h2>Paul Hanna</h2>
+            <h2>Mayuresh Raul</h2>
             <img
-              src="https://cdn2.iconfinder.com/data/icons/avatar-2/512/Fred_man-512.png"
+              src="https://media.licdn.com/dms/image/C4D03AQFX3pf95VvUlg/profile-displayphoto-shrink_200_200/0?e=1533772800&v=beta&t=lStocATMdZAcpWNcCUvdgesqxi2GP_eRUNmcbtdyVtw"
               alt="avatar"
               style={{height: '250px'}}
                />
@@ -26,30 +26,24 @@ class Contact extends Component {
                 <ListItem>
                   <ListItemContent style={{fontSize: '30px', fontFamily: 'Anton'}}>
                     <i className="fa fa-phone-square" aria-hidden="true"/>
-                    (123) 456-7890
+                    (607 338-8428)
                   </ListItemContent>
                 </ListItem>
 
                 <ListItem>
                   <ListItemContent style={{fontSize: '30px', fontFamily: 'Anton'}}>
                     <i className="fa fa-fax" aria-hidden="true"/>
-                    (123) 456-7890
+                    (607 338-8428)
                   </ListItemContent>
                 </ListItem>
 
                 <ListItem>
                   <ListItemContent style={{fontSize: '30px', fontFamily: 'Anton'}}>
                     <i className="fa fa-envelope" aria-hidden="true"/>
-                    someone@example.com
+                    mraul1@binghamton.edu
                   </ListItemContent>
                 </ListItem>
 
-                <ListItem>
-                  <ListItemContent style={{fontSize: '30px', fontFamily: 'Anton'}}>
-                    <i className="fa fa-skype" aria-hidden="true"/>
-                    MySkypeID
-                  </ListItemContent>
-                </ListItem>
 
 
               </List>
